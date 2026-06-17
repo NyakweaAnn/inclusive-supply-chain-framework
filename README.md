@@ -16,7 +16,7 @@ When a company pledges $25M, everyone wants to move fast. But speed without a ma
 * **The Procurement Track:** Forcing RetailCo to stop guessing and start tracking. I mapped out a timeline moving from baseline demographic audits (Weeks 1-3) to stakeholder standard rewrites (Weeks 4-7) and targeted regional pilots (Weeks 8-10).
 * **The Governance Track:** Setting the rules for the $25M. This meant defining the target operating model, mapping out explicit accountability matrices, and setting up an aggressive due diligence pipeline to vet community funds before a single dollar left the building.
 
-*The raw, time-phased dataset behind this master schedule lives right here in `project_controls/retailco_10week_master_schedule.csv`.*
+*The raw, time-phased dataset behind this master schedule lives right here in `project_controls/retailco_10week_project_plan.csv.xlsx`.*
 
 ---
 
